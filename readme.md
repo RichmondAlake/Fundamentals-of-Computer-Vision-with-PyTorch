@@ -14,5 +14,5 @@ This repository contains a Jupyter Notebook that guides you through the fundamen
 - Practical applications using pre-trained models like YOLOv5 for object detection and DeepLabV3 for semantic segmentation..
 
 ### Module 5: MLOps  
-- Integration with Data Version Control [`Data Version Control`](/module_5/module_5_data_version_control.ipynb.ipynb)
+- Integration with Data Version Control [`Data Version Control`](/module_5/module_5_data_version_control.ipynb)
 - Monitoring with Weights & Biases [`Weights and Biases`](/module_5/module_5_weights_biases_exp_tracking.ipynb)
